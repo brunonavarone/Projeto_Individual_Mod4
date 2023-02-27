@@ -23,6 +23,9 @@
 ### Requisitos extras 
 #### ⇨ Preparar os scripts que vão criar o banco de dados proposto e adicionar uma pasta chamada SQL com os arquivos.
 
+### Print do modelo 
+![image](https://raw.githubusercontent.com/brunonavarone/Projeto_Individual_Mod4/main/Modelo%20Projeto%20Individual%20.png)
+
 ### Site do meu dbdiagram.io 
 ### https://dbdiagram.io/d/63fc9bba296d97641d84010e
 
