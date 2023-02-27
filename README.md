@@ -5,8 +5,15 @@
 ## Objetivos 
 ### Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
 #### ⇨ Existem outras entidades além dessas três?
+##### R: Sim: Facilitador e Monitor.
+
 #### ⇨ Quais são os principais campos e tipos?
+##### R: Nome, CPF, E-mail e Telefone.
+
 #### ⇨ Como essas entidades estão relacionadas?
+##### R: 
+
+
 ##### Vamos tentar pensar em 2 registros para cada entidade para checar o preenchimento das informações no nosso modelo.
 
 ## O que deve ser entregue? 
@@ -15,4 +22,7 @@
 ## Extras 
 ### Requisitos extras 
 #### ⇨ Preparar os scripts que vão criar o banco de dados proposto e adicionar uma pasta chamada SQL com os arquivos.
+
+### Site do meu dbdiagram.io 
+### https://dbdiagram.io/d/63fc9bba296d97641d84010e
 
