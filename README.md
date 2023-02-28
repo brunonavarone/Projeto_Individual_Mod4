@@ -1,22 +1,22 @@
 # Projeto Individual Módulo 4
-## Descrição do projeto
+## __Descrição do projeto__
 ### A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
-## Objetivos 
+## __Objetivos__ 
 ### Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
 #### ⇨ Existem outras entidades além dessas três?
 ##### R: Sim: Instituição, Facilitador e Monitor.
 
 #### ⇨ Quais são os principais campos e tipos?
-##### R: Nome (varchar), CPF(int), E-mail(varchar) e Telefone(int).
+##### __R:__ Nome (varchar), CPF(int), E-mail(varchar) e Telefone(int).
 
-#### ⇨ Como essas entidades estão relacionadas?
-##### R: 
+#### __⇨ Como essas entidades estão relacionadas?__
+##### __R:__ 
 
 
 ##### Vamos tentar pensar em 2 registros para cada entidade para checar o preenchimento das informações no nosso modelo.
 
-## O que deve ser entregue? 
+## __O que deve ser entregue?__ 
 ### A entrega deve ser realizada em um repositório do Github com um print do modelo proposto e um arquivo README respondendo as perguntas anteriores e apontando para os detalhes da modelagem proposta.
 
 ## Extras 
