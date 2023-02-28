@@ -27,6 +27,5 @@
 ![image](https://raw.githubusercontent.com/brunonavarone/Projeto_Individual_Mod4/main/Modelo%20Projeto%20Individual%20.png)
 
 ### [Arquivo do script](https://github.com/brunonavarone/Projeto_Individual_Mod4/blob/main/Modelo%20Projeto%20Individual%20.sql)
-### Site do meu dbdiagram.io 
-### https://dbdiagram.io/d/63fc9bba296d97641d84010e
+### [Site do meu modelo dbdiagram.io](https://dbdiagram.io/d/63fc9bba296d97641d84010e)
 
