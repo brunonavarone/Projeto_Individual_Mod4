@@ -12,6 +12,12 @@
 
 #### ⇨ Como essas entidades estão relacionadas?
 ##### R: 
+* A entidade instituição tá relacionada com a entidade curso de 1 para N, uma vez que a instituição possui vários cursos e o curso só tem uma instituição.
+* A entidade curso está relacionada com a entidade turma de 1 para N. A turma possui apenas um curso mas o curso pode está dentro de várias turmas. OBS: Importante frisar que o curso que levei em consideração foi o curso de full stack do resíslia dos programadores cariocas, e não a instituição resília.
+* A entidade turma está relacionada com as entidades facilitador, monitor e aluno. 
+A relação turma / facilitador é N para N, uma vez que uma turma pode ter vários facilitadores e um facilitador pode trabalhar em várias turmas.
+A relação turma / monitor segue a mesma lógica da relação anterior: a turma pode ter vários monitores e um monitor pode trabalhar em várias turmas. 
+A relação turma / aluno é 1 para N. Uma turma tem vários alunos mas o aluno só tem uma turma. 
 
 
 ##### Vamos tentar pensar em 2 registros para cada entidade para checar o preenchimento das informações no nosso modelo.
