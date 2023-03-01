@@ -33,5 +33,5 @@ A relação turma / aluno é 1 para N. Uma turma tem vários alunos mas o aluno 
 ![image](https://raw.githubusercontent.com/brunonavarone/Projeto_Individual_Mod4/main/Modelo%20Projeto%20Individual%20.png)
 
 ### [Arquivo do script](https://github.com/brunonavarone/Projeto_Individual_Mod4/blob/main/Modelo%20Projeto%20Individual%20.sql)
-### [Site do meu modelo dbdiagram.io]https://github.com/brunonavarone/Projeto_Individual_Mod4/blob/main/Modelo%20Projeto%20Individual%20.sql)
+### [Site do meu modelo dbdiagram.io](https://github.com/brunonavarone/Projeto_Individual_Mod4/blob/main/Modelo%20Projeto%20Individual%20.sql)
 
